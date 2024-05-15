@@ -9,3 +9,5 @@ e
 5app/src/main/java/com/swood/photoedit/EditActivity.kt,a/7/a71deffd69610a55ae81a255ff0cc7c6704e2d65
 P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+l
+<app/src/main/java/com/swood/photoedit/ComposeFileProvider.kt,9/4/945bde7dbaa00ef205abc0ecc9697bd23cfe6543
