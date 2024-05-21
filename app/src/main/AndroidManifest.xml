@@ -37,7 +37,7 @@
 
         <provider
             android:name=".ComposeFileProvider"
-            android:authorities="com.catalin.photoedit.fileprovider"
+            android:authorities="com.swood.photoedit.fileprovider"
             android:grantUriPermissions="true"
             android:exported="false">
             <meta-data
